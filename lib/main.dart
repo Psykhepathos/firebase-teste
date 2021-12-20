@@ -34,8 +34,8 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Flutter Demo',
         theme: ThemeData(
-          primarySwatch: Colors.purple,
-          accentColor: Colors.deepOrange,
+          primarySwatch: Colors.yellow,
+          accentColor: Colors.white,
           fontFamily: 'Lato',
         ),
         // home: ProductsOverviewPage(),
